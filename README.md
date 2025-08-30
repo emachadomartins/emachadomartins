@@ -2,7 +2,7 @@
 
 Eu sou Evandro ou Batata, depende de pra quem você pergunta. Chega mais 🍟
 
-![Follow](https://img.shields.io/github/followers/hakuunabatata.svg?style=social&label=Follow&maxAge=2592000)
+![Follow](https://img.shields.io/github/followers/emachadomartins.svg?style=social&label=Follow&maxAge=2592000)
 
 
 
